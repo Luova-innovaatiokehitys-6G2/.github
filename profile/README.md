@@ -1,6 +1,6 @@
-# Hi there 👋
+# Luova Innovaatiokehitys | 6G2
 
-## Luova Innovaatiokehitys | 6G2
+Project: EsteetPois
 
 Members:
 
