@@ -1,4 +1,4 @@
-# Luova Innovaatiokehitys | 6G2
+# Luova innovaatiokehitys | 6G2
 
 Project: EsteetPois
 
